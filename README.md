@@ -6,8 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/2ba1f2ce-7895-466c-bf81-fef3ce558a70
-
+View your app in AI Studio: (https://civicpulsesih.ai.studio)
 ## Run Locally
 
 **Prerequisites:**  Node.js
