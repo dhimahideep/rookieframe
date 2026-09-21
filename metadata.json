@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse - Crowd Sourced Issue Reporting System",
+  "description": "Smart India Hackathon 2026 prototype by Team Outliers (SIH25031) for crowd-sourced civic issue reporting, automated duplicate detection, severity scoring, and before-after verification.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
